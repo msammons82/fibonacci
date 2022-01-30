@@ -1,1 +1,1 @@
-# fibonacci
+# fibonacci sequence calc
